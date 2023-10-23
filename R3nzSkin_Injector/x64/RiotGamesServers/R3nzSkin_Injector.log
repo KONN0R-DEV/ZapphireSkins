@@ -1,0 +1,6 @@
+﻿cl : línea de comandos  warning D9002: se omite la opción desconocida '/arch:SSE2'
+cl : línea de comandos  warning D9002: se omite la opción desconocida '/arch:SSE2'
+  Injector.cpp
+cl : línea de comandos  warning D9002: se omite la opción desconocida '/arch:SSE2'
+  main.cpp
+  R3nzSkin_Injector.vcxproj -> C:\Users\konno\Desktop\carpeta2\R3nzSkin\Release\RiotGamesServers\R3nzSkin_Injector.exe

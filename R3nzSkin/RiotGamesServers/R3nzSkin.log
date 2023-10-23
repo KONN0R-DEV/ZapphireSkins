@@ -1,0 +1,48 @@
+﻿  Config.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Memory.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  Hooks.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\Hooks.cpp(30,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\Hooks.cpp(370,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\Hooks.cpp(392,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\Hooks.cpp(405,23): warning C4018: '<': no coinciden signed/unsigned
+  R3nzSkin.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  GUI.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(34,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(123,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(211,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(218,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(230,56): error C2672: 'random': no se encontró una función sobrecargada que coincida
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\Utils.hpp(37,17): message : puede ser 'T random(T,T) noexcept'
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(230,56): message : "T random(T,T) noexcept": el parámetro de plantilla "T" es ambiguo
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(230,56): message : puede ser 'unsigned int'
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(230,56): message : o       'unsigned __int64'
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(230,56): message : "T random(T,T) noexcept": no se pudo deducir el argumento plantilla para "T" de "const unsigned int"
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(234,15): error C2672: 'random': no se encontró una función sobrecargada que coincida
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\Utils.hpp(37,17): message : puede ser 'T random(T,T) noexcept'
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(234,15): message : "T random(T,T) noexcept": el parámetro de plantilla "T" es ambiguo
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(234,15): message : puede ser 'unsigned int'
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(234,15): message : o       'unsigned __int64'
+C:\Users\konno\Desktop\carpeta2\R3nzSkin\R3nzSkin\GUI.cpp(234,15): message : "T random(T,T) noexcept": no se pudo deducir el argumento plantilla para "T" de "const unsigned int"
+  AIBaseCommon.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  AIMinionClient.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  CharacterDataStack.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  SkinDatabase.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+  Utils.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\chrono(2327,9): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
